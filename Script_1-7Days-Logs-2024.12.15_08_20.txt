@@ -1,0 +1,289 @@
+
+
+<<<<< ----- Script: 1 - Indeed Job Scraper by AHMAD S. (Ahmasoft) for DOMAINSTERS LLC ----- >>>>>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Initiating The Process-1 at: 2024.12.15_08_20 | For: 7Days | URL: https://www.indeed.com/jobs?q=&l=Washington+State&fromage=7
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+****** ***** PROCESS-1 STARTED (FILTERING DATA FROM JOB WINDOWS) ***** ******
+Location: 1/15 | Crawled Page: 1 | Found: 14 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 2 | Found: 14 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 3 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 4 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 5 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 6 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 7 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 8 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 9 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 10 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 11 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 12 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 13 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 14 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 15 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 16 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 17 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 18 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 19 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 20 | Found: 14 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 21 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 22 | Found: 14 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 23 | Found: 14 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 24 | Found: 14 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 25 | Found: 14 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 26 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 27 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 28 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 29 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 30 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 31 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 32 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 33 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 34 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 35 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 36 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 37 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 38 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 39 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 40 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 41 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 42 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 43 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 44 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 45 | Found: 14 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 46 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 47 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 48 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 49 | Found: 15 Filtered Jobs From Job Windows
+Location: 1/15 | Crawled Page: 50 | Found: 8 Filtered Jobs From Job Windows
+<<<<<<<<<<<<<<<<<<<<<<< No Next Page For This Location >>>>>>>>>>>>>>>>>>>>>>
+
+Location: 2/15 | Crawled Page: 1 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 2 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 3 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 4 | Found: 14 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 5 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 6 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 7 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 8 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 9 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 10 | Found: 14 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 11 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 12 | Found: 13 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 13 | Found: 14 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 14 | Found: 11 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 15 | Found: 14 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 16 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 17 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 18 | Found: 13 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 19 | Found: 13 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 20 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 21 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 22 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 23 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 24 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 25 | Found: 14 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 26 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 27 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 28 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 29 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 30 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 31 | Found: 13 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 32 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 33 | Found: 14 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 34 | Found: 15 Filtered Jobs From Job Windows
+Location: 2/15 | Crawled Page: 35 | Found: 1 Filtered Jobs From Job Windows
+<<<<<<<<<<<<<<<<<<<<<<< No Next Page For This Location >>>>>>>>>>>>>>>>>>>>>>
+
+Location: 3/15 | Crawled Page: 1 | Found: 13 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 2 | Found: 14 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 3 | Found: 14 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 4 | Found: 13 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 5 | Found: 15 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 6 | Found: 15 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 7 | Found: 14 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 8 | Found: 13 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 9 | Found: 15 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 10 | Found: 13 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 11 | Found: 12 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 12 | Found: 15 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 13 | Found: 14 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 14 | Found: 15 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 15 | Found: 15 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 16 | Found: 14 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 17 | Found: 14 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 18 | Found: 15 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 19 | Found: 14 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 20 | Found: 14 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 21 | Found: 14 Filtered Jobs From Job Windows
+Location: 3/15 | Crawled Page: 22 | Found: None Filtered Jobs From Job Windows
+<<<<<<<<<<<<<<<<<<<<<<< No Next Page For This Location >>>>>>>>>>>>>>>>>>>>>>
+
+Location: 4/15 | Crawled Page: 1 | Found: None Filtered Jobs From Job Windows
+<<<<<<<<<<<<<<<<<<<<<<< No Next Page For This Location >>>>>>>>>>>>>>>>>>>>>>
+
+Location: 5/15 | Crawled Page: 1 | Found: None Filtered Jobs From Job Windows
+<<<<<<<<<<<<<<<<<<<<<<< No Next Page For This Location >>>>>>>>>>>>>>>>>>>>>>
+
+Location: 6/15 | Crawled Page: 1 | Found: 15 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 2 | Found: 15 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 3 | Found: 14 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 4 | Found: 15 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 5 | Found: 15 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 6 | Found: 14 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 7 | Found: 15 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 8 | Found: 15 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 9 | Found: 14 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 10 | Found: 15 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 11 | Found: 14 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 12 | Found: 13 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 13 | Found: 14 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 14 | Found: 15 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 15 | Found: 15 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 16 | Found: 15 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 17 | Found: 14 Filtered Jobs From Job Windows
+Location: 6/15 | Crawled Page: 18 | Found: 4 Filtered Jobs From Job Windows
+<<<<<<<<<<<<<<<<<<<<<<< No Next Page For This Location >>>>>>>>>>>>>>>>>>>>>>
+
+Location: 7/15 | Crawled Page: 1 | Found: 15 Filtered Jobs From Job Windows
+Location: 7/15 | Crawled Page: 2 | Found: 15 Filtered Jobs From Job Windows
+Location: 7/15 | Crawled Page: 3 | Found: 15 Filtered Jobs From Job Windows
+Location: 7/15 | Crawled Page: 4 | Found: 15 Filtered Jobs From Job Windows
+Location: 7/15 | Crawled Page: 5 | Found: 15 Filtered Jobs From Job Windows
+Location: 7/15 | Crawled Page: 6 | Found: 15 Filtered Jobs From Job Windows
+Location: 7/15 | Crawled Page: 7 | Found: 15 Filtered Jobs From Job Windows
+Location: 7/15 | Crawled Page: 8 | Found: 15 Filtered Jobs From Job Windows
+Location: 7/15 | Crawled Page: 9 | Found: 14 Filtered Jobs From Job Windows
+Location: 7/15 | Crawled Page: 10 | Found: 15 Filtered Jobs From Job Windows
+Location: 7/15 | Crawled Page: 11 | Found: 15 Filtered Jobs From Job Windows
+Location: 7/15 | Crawled Page: 12 | Found: 15 Filtered Jobs From Job Windows
+Location: 7/15 | Crawled Page: 13 | Found: 15 Filtered Jobs From Job Windows
+Location: 7/15 | Crawled Page: 14 | Found: 15 Filtered Jobs From Job Windows
+Location: 7/15 | Crawled Page: 15 | Found: 14 Filtered Jobs From Job Windows
+Location: 7/15 | Crawled Page: 16 | Found: 8 Filtered Jobs From Job Windows
+<<<<<<<<<<<<<<<<<<<<<<< No Next Page For This Location >>>>>>>>>>>>>>>>>>>>>>
+
+Location: 8/15 | Crawled Page: 1 | Found: 15 Filtered Jobs From Job Windows
+Location: 8/15 | Crawled Page: 2 | Found: 15 Filtered Jobs From Job Windows
+Location: 8/15 | Crawled Page: 3 | Found: 15 Filtered Jobs From Job Windows
+Location: 8/15 | Crawled Page: 4 | Found: 13 Filtered Jobs From Job Windows
+Location: 8/15 | Crawled Page: 5 | Found: 13 Filtered Jobs From Job Windows
+Location: 8/15 | Crawled Page: 6 | Found: 15 Filtered Jobs From Job Windows
+Location: 8/15 | Crawled Page: 7 | Found: 13 Filtered Jobs From Job Windows
+Location: 8/15 | Crawled Page: 8 | Found: 15 Filtered Jobs From Job Windows
+<<<<<<<<<<<<<<<<<<<<<<< No Next Page For This Location >>>>>>>>>>>>>>>>>>>>>>
+
+Location: 9/15 | Crawled Page: 1 | Found: 15 Filtered Jobs From Job Windows
+Location: 9/15 | Crawled Page: 2 | Found: 15 Filtered Jobs From Job Windows
+Location: 9/15 | Crawled Page: 3 | Found: 15 Filtered Jobs From Job Windows
+Location: 9/15 | Crawled Page: 4 | Found: 15 Filtered Jobs From Job Windows
+Location: 9/15 | Crawled Page: 5 | Found: 14 Filtered Jobs From Job Windows
+Location: 9/15 | Crawled Page: 6 | Found: 15 Filtered Jobs From Job Windows
+Location: 9/15 | Crawled Page: 7 | Found: 15 Filtered Jobs From Job Windows
+Location: 9/15 | Crawled Page: 8 | Found: 15 Filtered Jobs From Job Windows
+Location: 9/15 | Crawled Page: 9 | Found: 15 Filtered Jobs From Job Windows
+Location: 9/15 | Crawled Page: 10 | Found: 15 Filtered Jobs From Job Windows
+Location: 9/15 | Crawled Page: 11 | Found: 15 Filtered Jobs From Job Windows
+Location: 9/15 | Crawled Page: 12 | Found: 13 Filtered Jobs From Job Windows
+Location: 9/15 | Crawled Page: 13 | Found: 15 Filtered Jobs From Job Windows
+Location: 9/15 | Crawled Page: 14 | Found: 10 Filtered Jobs From Job Windows
+<<<<<<<<<<<<<<<<<<<<<<< No Next Page For This Location >>>>>>>>>>>>>>>>>>>>>>
+
+Location: 10/15 | Crawled Page: 1 | Found: 15 Filtered Jobs From Job Windows
+Location: 10/15 | Crawled Page: 2 | Found: 15 Filtered Jobs From Job Windows
+Location: 10/15 | Crawled Page: 3 | Found: 15 Filtered Jobs From Job Windows
+Location: 10/15 | Crawled Page: 4 | Found: 15 Filtered Jobs From Job Windows
+Location: 10/15 | Crawled Page: 5 | Found: 15 Filtered Jobs From Job Windows
+Location: 10/15 | Crawled Page: 6 | Found: 15 Filtered Jobs From Job Windows
+Location: 10/15 | Crawled Page: 7 | Found: 13 Filtered Jobs From Job Windows
+Location: 10/15 | Crawled Page: 8 | Found: 15 Filtered Jobs From Job Windows
+Location: 10/15 | Crawled Page: 9 | Found: 14 Filtered Jobs From Job Windows
+Location: 10/15 | Crawled Page: 10 | Found: 15 Filtered Jobs From Job Windows
+Location: 10/15 | Crawled Page: 11 | Found: 15 Filtered Jobs From Job Windows
+Location: 10/15 | Crawled Page: 12 | Found: 15 Filtered Jobs From Job Windows
+Location: 10/15 | Crawled Page: 13 | Found: 13 Filtered Jobs From Job Windows
+Location: 10/15 | Crawled Page: 14 | Found: 15 Filtered Jobs From Job Windows
+Location: 10/15 | Crawled Page: 15 | Found: 3 Filtered Jobs From Job Windows
+<<<<<<<<<<<<<<<<<<<<<<< No Next Page For This Location >>>>>>>>>>>>>>>>>>>>>>
+
+Location: 11/15 | Crawled Page: 1 | Found: 15 Filtered Jobs From Job Windows
+Location: 11/15 | Crawled Page: 2 | Found: 14 Filtered Jobs From Job Windows
+Location: 11/15 | Crawled Page: 3 | Found: 15 Filtered Jobs From Job Windows
+Location: 11/15 | Crawled Page: 4 | Found: 15 Filtered Jobs From Job Windows
+Location: 11/15 | Crawled Page: 5 | Found: 14 Filtered Jobs From Job Windows
+Location: 11/15 | Crawled Page: 6 | Found: 14 Filtered Jobs From Job Windows
+Location: 11/15 | Crawled Page: 7 | Found: 15 Filtered Jobs From Job Windows
+Location: 11/15 | Crawled Page: 8 | Found: 15 Filtered Jobs From Job Windows
+Location: 11/15 | Crawled Page: 9 | Found: 15 Filtered Jobs From Job Windows
+Location: 11/15 | Crawled Page: 10 | Found: 15 Filtered Jobs From Job Windows
+Location: 11/15 | Crawled Page: 11 | Found: 13 Filtered Jobs From Job Windows
+Location: 11/15 | Crawled Page: 12 | Found: 15 Filtered Jobs From Job Windows
+Location: 11/15 | Crawled Page: 13 | Found: 8 Filtered Jobs From Job Windows
+<<<<<<<<<<<<<<<<<<<<<<< No Next Page For This Location >>>>>>>>>>>>>>>>>>>>>>
+
+Location: 12/15 | Crawled Page: 1 | Found: 15 Filtered Jobs From Job Windows
+Location: 12/15 | Crawled Page: 2 | Found: 14 Filtered Jobs From Job Windows
+Location: 12/15 | Crawled Page: 3 | Found: 15 Filtered Jobs From Job Windows
+Location: 12/15 | Crawled Page: 4 | Found: 15 Filtered Jobs From Job Windows
+Location: 12/15 | Crawled Page: 5 | Found: 15 Filtered Jobs From Job Windows
+Location: 12/15 | Crawled Page: 6 | Found: 15 Filtered Jobs From Job Windows
+Location: 12/15 | Crawled Page: 7 | Found: 14 Filtered Jobs From Job Windows
+Location: 12/15 | Crawled Page: 8 | Found: 15 Filtered Jobs From Job Windows
+Location: 12/15 | Crawled Page: 9 | Found: 15 Filtered Jobs From Job Windows
+Location: 12/15 | Crawled Page: 10 | Found: 13 Filtered Jobs From Job Windows
+<<<<<<<<<<<<<<<<<<<<<<< No Next Page For This Location >>>>>>>>>>>>>>>>>>>>>>
+
+Location: 13/15 | Crawled Page: 1 | Found: 15 Filtered Jobs From Job Windows
+Location: 13/15 | Crawled Page: 2 | Found: 15 Filtered Jobs From Job Windows
+Location: 13/15 | Crawled Page: 3 | Found: 15 Filtered Jobs From Job Windows
+Location: 13/15 | Crawled Page: 4 | Found: 15 Filtered Jobs From Job Windows
+Location: 13/15 | Crawled Page: 5 | Found: 15 Filtered Jobs From Job Windows
+Location: 13/15 | Crawled Page: 6 | Found: 14 Filtered Jobs From Job Windows
+Location: 13/15 | Crawled Page: 7 | Found: 13 Filtered Jobs From Job Windows
+Location: 13/15 | Crawled Page: 8 | Found: 15 Filtered Jobs From Job Windows
+Location: 13/15 | Crawled Page: 9 | Found: 15 Filtered Jobs From Job Windows
+Location: 13/15 | Crawled Page: 10 | Found: 14 Filtered Jobs From Job Windows
+Location: 13/15 | Crawled Page: 11 | Found: 13 Filtered Jobs From Job Windows
+Location: 13/15 | Crawled Page: 12 | Found: 13 Filtered Jobs From Job Windows
+Location: 13/15 | Crawled Page: 13 | Found: 15 Filtered Jobs From Job Windows
+Location: 13/15 | Crawled Page: 14 | Found: 14 Filtered Jobs From Job Windows
+Location: 13/15 | Crawled Page: 15 | Found: 2 Filtered Jobs From Job Windows
+<<<<<<<<<<<<<<<<<<<<<<< No Next Page For This Location >>>>>>>>>>>>>>>>>>>>>>
+
+Location: 14/15 | Crawled Page: 1 | Found: 15 Filtered Jobs From Job Windows
+Location: 14/15 | Crawled Page: 2 | Found: 15 Filtered Jobs From Job Windows
+Location: 14/15 | Crawled Page: 3 | Found: 15 Filtered Jobs From Job Windows
+Location: 14/15 | Crawled Page: 4 | Found: 14 Filtered Jobs From Job Windows
+Location: 14/15 | Crawled Page: 5 | Found: 13 Filtered Jobs From Job Windows
+Location: 14/15 | Crawled Page: 6 | Found: 12 Filtered Jobs From Job Windows
+Location: 14/15 | Crawled Page: 7 | Found: 14 Filtered Jobs From Job Windows
+Location: 14/15 | Crawled Page: 8 | Found: 13 Filtered Jobs From Job Windows
+Location: 14/15 | Crawled Page: 9 | Found: 15 Filtered Jobs From Job Windows
+Location: 14/15 | Crawled Page: 10 | Found: 10 Filtered Jobs From Job Windows
+<<<<<<<<<<<<<<<<<<<<<<< No Next Page For This Location >>>>>>>>>>>>>>>>>>>>>>
+
+Location: 15/15 | Crawled Page: 1 | Found: 15 Filtered Jobs From Job Windows
+Location: 15/15 | Crawled Page: 2 | Found: 15 Filtered Jobs From Job Windows
+Location: 15/15 | Crawled Page: 3 | Found: 14 Filtered Jobs From Job Windows
+Location: 15/15 | Crawled Page: 4 | Found: 14 Filtered Jobs From Job Windows
+Location: 15/15 | Crawled Page: 5 | Found: 15 Filtered Jobs From Job Windows
+Location: 15/15 | Crawled Page: 6 | Found: 14 Filtered Jobs From Job Windows
+Location: 15/15 | Crawled Page: 7 | Found: 15 Filtered Jobs From Job Windows
+Location: 15/15 | Crawled Page: 8 | Found: 14 Filtered Jobs From Job Windows
+Location: 15/15 | Crawled Page: 9 | Found: 15 Filtered Jobs From Job Windows
+Location: 15/15 | Crawled Page: 10 | Found: 6 Filtered Jobs From Job Windows
+<<<<<<<<<<<<<<<<<<<<<<< No Next Page For This Location >>>>>>>>>>>>>>>>>>>>>>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Process-1 Completed at: 2024.12.15_16_46 | For: 7Days | URL: https://www.indeed.com/jobs?q=&l=Washington+State&fromage=7
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+********** ******* ***** COMPLETED ******* ***** *******
+
+
+<<<<<<<<<<<<<<<<<<<<<<<< TimeStamps >>>>>>>>>>>>>>>>>>>>>>>>>>>
+Process 1 Started at: 2024.12.15_08_20
+Process 1 Completed at: 2024.12.15_16_46
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
